@@ -49,13 +49,9 @@ contract SimPubProtocol {
         emit Publication(msg.sender, spec, uriType, uri, msg.value);
     }
 }
-
-
 ```
 
 ### Deployments
 
-> Need to add an Etherscan URL for each deployment.
-
-- Sepolia Testnet: `TBD`
-- Ethereum Mainnet: `TBD`
+- Sepolia Testnet: https://sepolia.etherscan.io/address/0x936b23e25e9a52758cda02bdedffa8c921a1b832
+- Ethereum Mainnet: https://etherscan.io/address/0xeb263a72abc4bdd6d228895c82158801506e9a23
